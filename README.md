@@ -1,5 +1,6 @@
 # ✦ Luxury Fashion Intelligence
-
+https://luxury-fashion-intelligence-5z5x2sumvqdey7ud8r8d8f.streamlit.app/ 
+### [View Live Dashboard ↗](https://luxury-fashion-intelligence-5z5x2sumvqdey7ud8r8d8f.streamlit.app/)
 ## The Business Behind Luxury
 
 An interactive business analytics dashboard exploring the financial performance, competitive scale, growth momentum, and brand portfolios of two leading global luxury groups: **LVMH** and **Richemont**.
