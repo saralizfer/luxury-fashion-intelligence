@@ -252,7 +252,7 @@ st.markdown(
 # LOAD DATA
 # ==================================================
 
-df = pd.read_csv("Data/luxury_financials.csv")
+df = pd.read_csv("luxury_financials.csv")
 
 lvmh_df = (
     df[df["Company"] == "LVMH"]
