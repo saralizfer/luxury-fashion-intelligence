@@ -1,5 +1,6 @@
 # ✦ Luxury Fashion Intelligence
 https://luxury-fashion-intelligence-5z5x2sumvqdey7ud8r8d8f.streamlit.app/ 
+### [View Live Dashboard ↗](https://luxury-fashion-intelligence-5z5x2sumvqdey7ud8r8d8f.streamlit.app/)
 
 ## The Business Behind Luxury
 
